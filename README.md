@@ -2,7 +2,6 @@
 - 👀 I’m interested in website developing 
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to chose the backend and frontend software 
-- 📫 How to reach me ...
 
 <!---
 GeekProgramer/GeekProgramer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
