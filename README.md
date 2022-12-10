@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GeekProgramer
+- 👋 Hi, I’m @Shivam Garg
 - 👀 I’m interested in website developing 
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to chose the backend and frontend software 
