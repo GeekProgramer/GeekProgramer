@@ -1,7 +1,5 @@
-<h2 align="left">Hi 👋! My name is Shivam Garg and I'm a student, from India.</h2>
-<h2> I am a full-stack developer.</h2> 
-<h2>I have expertise in Python.</h2>
-<h2>Currently Exploring Machine Learning</h2>
+<h2 align="center">Hi 👋! My name is Shivam Garg and I'm a student, from India. I am a full-stack developer. I have expertise in Python.
+Currently Exploring Machine Learning</h2>
 
 ###
 
@@ -12,11 +10,11 @@
 
 ###
 
-<img align="right" height="150" src="https://media4.giphy.com/media/eSwGh3YK54JKU/giphy.gif?cid=ecf05e473uoxzijbn81nc2sfq4e6d6rz7n620w740ar5l7gi&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<img align="center" height="150" src="https://media4.giphy.com/media/eSwGh3YK54JKU/giphy.gif?cid=ecf05e473uoxzijbn81nc2sfq4e6d6rz7n620w740ar5l7gi&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
@@ -38,7 +36,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.instagram.com/shivam_garg_2694/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
