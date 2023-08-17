@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Shivam Garg and I'm a student, from India</h2>
+<h2 align="left">Hi 👋! My name is Shivam Garg and I'm a student, from India. I am a full-stack developer. I have expertise in Python. Currently Exploring Machine Learning</h2>
 
 ###
 
