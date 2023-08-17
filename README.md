@@ -2,6 +2,7 @@
 Currently Exploring Machine Learning</h2>
 
 ###
+<img align="right" height="150" src="https://media4.giphy.com/media/eSwGh3YK54JKU/giphy.gif?cid=ecf05e473uoxzijbn81nc2sfq4e6d6rz7n620w740ar5l7gi&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GeekProgramer&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -10,7 +11,7 @@ Currently Exploring Machine Learning</h2>
 
 ###
 
-<img align="right" height="150" src="https://media4.giphy.com/media/eSwGh3YK54JKU/giphy.gif?cid=ecf05e473uoxzijbn81nc2sfq4e6d6rz7n620w740ar5l7gi&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+
 
 ###
 
