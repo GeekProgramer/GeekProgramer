@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GeekProgramer&label=Profile%20views&color=0e75b6&style=flat" alt="GeekProgramer" /> </p>
 
-- 🔭 I’m currently working on **Image Analytic Project for Tree enumeration for diversion of Forest Land.**
+- 🔭 I’m currently working on **Automatic Quiz Difficulty Adjustment Algorithm.**
 
-- 🌱 I’m currently learning **React and Flutter**
+- 🌱 I’m currently learning **C++r**
 
 - 💬 Ask me about **AI/ML Models, Computer Vision**
 
